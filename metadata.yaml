@@ -1,0 +1,35 @@
+_repo: Ferdinand-De-Soto-The-Discoverer-of-the-MississippiAmerican-Pioneers-and-Patriots_29172
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 29172-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Abbott, John S. C. (John Stevens Cabot)
+    aliases:
+    - Abbott, John Stevens Cabot
+    - John S. C. (John Stevens Cabot) Abbott
+    birthdate: 1805
+    deathdate: 1877
+    gutenberg_agent_id: '1298'
+    url: http://www.gutenberg.org/2009/agents/1298
+    wikipedia: http://en.wikipedia.org/wiki/John_Stevens_Cabot_Abbott
+description: A history of the expeditions and military conquests of Hernando de Soto
+  in South America, Florida, Georgia, and Alabama.
+gutenberg_issued: '2009-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29172'
+  lccn: 06043449
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Florida -- History -- To 1565'
+- !lcsh 'Soto, Hernando de, approximately 1500-1542'
+- !lcc 'E011'
+title: 'Ferdinand De Soto, The Discoverer of the Mississippi
+
+  American Pioneers and Patriots'
+url: http://www.gutenberg.org/ebooks/29172
