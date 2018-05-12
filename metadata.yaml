@@ -16,6 +16,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/John_Stevens_Cabot_Abbott
 description: A history of the expeditions and military conquests of Hernando de Soto
   in South America, Florida, Georgia, and Alabama.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29172#Ferdinand-De-Soto-The-Discoverer-of-the-MississippiAmerican-Pioneers-and-Patriots
 gutenberg_issued: '2009-06-20'
 gutenberg_type: Text
 identifiers:
